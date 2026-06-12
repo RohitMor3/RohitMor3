@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="left">
+  
+# Rohit More
 
-<!--
-**RohitMor3/RohitMor3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN Stack Dev** • AI/ML Enthusiast • python (Django, FastAPI) • DevOps
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-more-9365a1377/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/stonesUnturned)
+[![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@rohitvmore.work)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat)](https://example.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+Currently deep in DevOps, improving my DSA and real-world project-building skills.
+
+*Turning ideas into scalable products, one commit at a time.*
+
+📧 Rohitvmore.work@gmail.com
