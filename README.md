@@ -20,7 +20,7 @@
 
 <div align="center">Building scalable applications. Currently deep in DevOps, improving my DSA and real-world project-building skills.
 
-*Turning ideas into scalable products, one commit at a time.*
+***Turning ideas into scalable products, one commit at a time.***
 
 📧 Rohitvmore.work@gmail.com
 
